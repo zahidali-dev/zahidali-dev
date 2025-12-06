@@ -58,7 +58,7 @@ const About = () => {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/1hwTuJv6s-zXZa_iNvoFZWvKCb6zJDCkG/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1JIOSQUiRPzQRnLjAEzOc_0iTofWbDx7w/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full text-lg font-bold transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-purple-500/50 bg-gradient-to-r from-purple-500 via-pink-500 to-indigo-500 animate-pulse"
